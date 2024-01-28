@@ -12,10 +12,10 @@ val Pink40 = Color(0xFF7D5260)
 
 
 
-val BrickSpirit = Color(0xDD000000)
+val BrickTetrimino = Color(0xDD000000)
 val BrickMatrix = Color(0x1F000000)
 val BrickHighlight = Color(0xFF560000)
 val ScreenBackground = Color(0xff9ead86)
 
 
-val BodyColor = Color(0xffefcc19)
+val BodyColor = Color(0xFF636260)
